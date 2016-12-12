@@ -1,2 +1,7 @@
 Report Journée snakemake
 =========================
+
+participants:
+-------------
+
+
