@@ -10,7 +10,12 @@ Journée Snakemake
 - Emilie Ait Yahya emilie.aityahya at chru-lille.fr
 - Fabrice Bonte fabrice.bonte at chru-lille.fr
 - thomas kergrohen thomas.kergrohen at pasteur.fr
-- Timothée Vincent timothee.vincent@ibmp-cnrs.unistra.fr
-- Marc Galland m.galland@uva.nl
-- Adrien Josso ajosso@genoscope.cns.fr
+- Timothée Vincent timothee.vincent at ibmp-cnrs.unistra.fr
+- Marc Galland m.galland at uva.nl
+- Adrien Josso ajosso at genoscope.cns.fr
 - Rachel Legendre 
+- Jérôme Mariette jerome.mariette at inra.fr
+- Vladimir Daric vladimir.daric at u-psud.fr
+- Vivien Deshaies vivien.deshaies at gmail.com
+- claire 
+- Celine Hernandez celine.hernandez at ens.fr
