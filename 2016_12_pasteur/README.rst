@@ -1,21 +1,7 @@
 Journée Snakemake
 -------------------
 
-- Amandine PERRIN amandine.perrin at pasteur.fr
-- Kenzo HILLION kehillio at pasteur.fr
-- Justine GUEGAN j.guegan-ihu at icm-institute.org
-- MAthieu Valade mvalade at curie.fr
-- Dimitri Desvillechabrol dimitri.desvillechabrol at pasteur.fr
-- Martin Figeac martin.figeac at univ-lille2.fr
-- Emilie Ait Yahya emilie.aityahya at chru-lille.fr
-- Fabrice Bonte fabrice.bonte at chru-lille.fr
-- thomas kergrohen thomas.kergrohen at pasteur.fr
-- Timothée Vincent timothee.vincent at ibmp-cnrs.unistra.fr
-- Marc Galland m.galland at uva.nl
-- Adrien Josso ajosso at genoscope.cns.fr
-- Rachel Legendre 
-- Jérôme Mariette jerome.mariette at inra.fr
-- Vladimir Daric vladimir.daric at u-psud.fr
-- Vivien Deshaies vivien.deshaies at gmail.com
-- claire 
-- Celine Hernandez celine.hernandez at ens.fr
+
+The program
+
+https://c3bi.pasteur.fr/news-journee-snakemake/
