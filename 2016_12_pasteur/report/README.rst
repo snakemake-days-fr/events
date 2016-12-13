@@ -36,7 +36,7 @@ participants:
 - Jérôme Mariette jerome.mariette at inra.fr
 - Vladimir Daric vladimir.daric at u-psud.fr
 - Vivien Deshaies vivien.deshaies at gmail.com
-- claire 
+- claire Rioualen
 - Celine Hernandez celine.hernandez at ens.fr
 - Hervé Ménager 
 - Frédéric Lemoine
