@@ -23,3 +23,5 @@ Slides of the talks can be found in the ./slides directory
 - Exemple d’utilisation de snakemake avec des images docker dans le cloud de l’IFB. Sandrine Perrin – IFB Gif sur Yvette
 - L’utilisation de Snakemake à l’Institut Curie. Mathieu Valade – Institut Curie
 - L’utilisation de Snakemake à l’ICM. Justine Guegan – ICM, Paris
+
+.. cokelaer_slides: https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/cokelaer_slides.pdf
