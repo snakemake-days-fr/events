@@ -13,33 +13,33 @@ The official program was posted `here <https://c3bi.pasteur.fr/news-journee-snak
 Slides of the talks can be found in the ./slides directory or in the link below
 
 
-- Thomas Cokelaer -- Snakemake overview --Institut Pasteur Paris -- cokelaer_slides_
-- Marc Galland -- RNA-Seq pipelines with Snakemake -- Université d’Amsterdam -- galland_slides_
-- Development of Snakemake Workflows designed for ChIP-seq analysis – Claire Rioualen – TAGC, INSERM, Université de Marseille
-- Sequana: a set of flexible genomic pipelines for processing and reporting NGS analysis – Dimitri Desvillechabrol – Biomics, Institut Pasteur Paris
-- A pipeline for fast and light-weight differential isoform expression from RNA-Seq data. Thibault Dayris – Institut Gustave Roussy
-- Projet Snakemake de RNA-seq (DE et variant)– Hugo Pereira – LABGeM, CEA Evry
-- Exemple d’utilisation de snakemake avec des images docker dans le cloud de l’IFB. Sandrine Perrin – IFB Gif sur Yvette
-- L’utilisation de Snakemake à l’Institut Curie. Mathieu Valade – Institut Curie
-- L’utilisation de Snakemake à l’ICM. Justine Guegan – ICM, Paris
+- Thomas Cokelaer -- Snakemake overview --Institut Pasteur Paris -- Cokelaer_slides_
+- Marc Galland -- RNA-Seq pipelines with Snakemake -- Université d’Amsterdam -- Galland_slides_
+- Development of Snakemake Workflows designed for ChIP-seq analysis – Claire Rioualen – TAGC, INSERM, Université de Marseille -- Rioualen_slides_
+- Dimitri Desvillechabrol -- Sequana: a set of flexible genomic pipelines for processing and reporting NGS analysis –- Biomics, Institut Pasteur Paris -- Desvillechabrol_slides_
+- Thibault Dayris -- A pipeline for fast and light-weight differential isoform expression from RNA-Seq data. -– Institut Gustave Roussy -- Dayris_slides_
+- Hugo Pereira -- Projet Snakemake de RNA-seq (DE et variant) –– LABGeM, CEA Evry -- Pereira_slides_
+- Sandrine Perrin -- Exemple d’utilisation de snakemake avec des images docker dans le cloud de l’IFB. Sandrine Perrin – IFB Gif sur Yvette -- Perrin_slides_
+- L’utilisation de Snakemake à l’Institut Curie. Mathieu Valade – Institut Curie Valade_slides_
+- Vivien Deshaies, Justine Guegan  -- L’utilisation de Snakemake à l’ICM. –- ICM, Paris -- Deshaies_slides_
 
-.. _cokelaer_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/cokelaer_slides.pdf
+.. _Cokelaer_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/cokelaer_slides.pdf
 
-.. _galland_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/galland_slides.pdf
+.. _Galland_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/galland_slides.pdf
 
-.. _rioualen_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/rioulane_slides.pdf
+.. _Rioualen_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/rioulane_slides.pdf
 
-.. _dimitri_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/desvillechabrol_slides.pdf
+.. _Desvillechabrol: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/desvillechabrol_slides.pdf
 
-.. _dayris_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/dayris_slides.pdf
+.. _Dayris_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/dayris_slides.pdf
 
-.. _pereira_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/pereira_slides.pdf
+.. _Pereira_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/pereira_slides.pdf
 
-.. _perrin_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slide/perrin_slides.pdf
+.. _Perrin_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slide/perrin_slides.pdf
 
-.. _valade_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/valade_slides.pdf
+.. _Valade_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/valade_slides.pdf
 
-.. _deshaies_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/deshaies_slides.pdf
+.. _Deshaies_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/deshaies_slides.pdf
 
 
 Groupe de travail
