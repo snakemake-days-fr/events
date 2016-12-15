@@ -29,7 +29,7 @@ Slides of the talks can be found in the ./slides directory or in the link below
 
 .. _Rioualen_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/rioualen_slides.pdf
 
-.. _Desvillechabrol: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/desvillechabrol_snakemake.pdf
+.. _Desvillechabrol_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/desvillechabrol_snakemake.pdf
 
 .. _Dayris_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/dayris_slides.pdf
 
