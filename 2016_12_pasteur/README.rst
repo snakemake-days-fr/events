@@ -1,7 +1,7 @@
 Journée Snakemake 12th Dec 2016
 ===============================
 
-The "Journée Snakemake" was organised by `Institut Pasteur <http://www.pasteur.fr>`_, `Institut Curie <http://curie.fr>`_, the `TAGC - Marseille <http://tagc.univ-mrs.fr/tagc>`_ and the `Genoscope - CEA <http://www.genoscope.cns.fr/spip>`_ with support from `ReproVirtuFlow du GDR MADICS <http://www.madics.fr/actions/actions-en-cours/reprovirtuflow/>`_. 
+The "Journée Snakemake" was organised by `Institut Pasteur <http://www.pasteur.fr/en>`_, `Institut Curie <http://curie.fr>`_, the `TAGC - Marseille <http://tagc.univ-mrs.fr/tagc>`_ and the `Genoscope - CEA <http://www.genoscope.cns.fr/spip>`_ with support from `ReproVirtuFlow du GDR MADICS <http://www.madics.fr/actions/actions-en-cours/reprovirtuflow/>`_. 
 
 The official program was posted here (in french) 
 
