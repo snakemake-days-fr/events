@@ -42,22 +42,37 @@ Slides of the talks can be found in the ./slides directory or in the link below
 .. _Deshaies_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/deshaies_guegan_slides.pdf
 
 
-Groupe de travail
--------------------
+Summary of the day
+---------------------
 
-CoBRAS - Communauté de Bioinformaticiens Rassemblés Autour de Snakemake
+Before the event, a mailing list and a national working group was created and hosted at IFB. 
 
-IFB has set up a mailing list to discuss about Snakemake
+    CoBRAS - Communauté de Bioinformaticiens Rassemblés Autour de Snakemake
 
-https://www.france-bioinformatique.fr/fr/groupes-de-travail/snakemake-workgroup
+Please see this page for info https://www.france-bioinformatique.fr/fr/groupes-de-travail/snakemake-workgroup
 
+The day was a great opportunity for about 50 participants_ to learn about Snakemake or to have high-level discussions about the syntax and usage.
 
-
-
-
-
+.. _participants: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/participants.rst
 
 
+In addition to the talks and discussions, we also set up some working groups during the day:
+
+Beginner tutorials
+~~~~~~~~~~~~~~~~~~~~
+There was a session for beginners to kick off with Snakemake. 
+
+Comparison Snakemake vs Nextflow
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This was organised by Frédéric Lemoine . Resources available on 
+
+https://gitlab.pasteur.fr/flemoine/hackathon-snakemake/
+
+Discussions around Snakemake details
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Docker with Snakemake 
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
