@@ -39,7 +39,7 @@ Slides of the talks can be found in the ./slides directory or in the link below
 
 .. _Valade_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/valade_slides.pdf
 
-.. _Deshaies_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/deshaies_slides.pdf
+.. _Deshaies_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/deshaies_guegan_slides.pdf
 
 
 Groupe de travail
