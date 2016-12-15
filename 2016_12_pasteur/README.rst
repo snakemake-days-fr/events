@@ -3,18 +3,16 @@ Journée Snakemake 12th Dec 2016
 
 The "Journée Snakemake" was organised by `Institut Pasteur <http://www.pasteur.fr/en>`_, `Institut Curie <http://curie.fr>`_, the `TAGC - Marseille <http://tagc.univ-mrs.fr/tagc>`_ and the `Genoscope - CEA <http://www.genoscope.cns.fr/spip>`_ with support from `ReproVirtuFlow du GDR MADICS <http://www.madics.fr/actions/actions-en-cours/reprovirtuflow/>`_. 
 
-The official program was posted here (in french) 
 
 https://www.france-bioinformatique.fr/fr/groupes-de-travail/snakemake-workgroup
 
 Program
 -------------
 
-https://c3bi.pasteur.fr/news-journee-snakemake/
+The official program was posted `here <https://c3bi.pasteur.fr/news-journee-snakemake/>`_.
 
-Slides of the talks can be found in the ./slides directory
+Slides of the talks can be found in the ./slides directory or in the link below
 
-cokelaer_slides_
 
 - cokelaer_slides_ (Présentation générale de snakemake). Thomas Cokelaer (Institut Pasteur Paris)
 - galland_slides_ (Pipelines mRNA et variants) – Marc Galland – Université d’Amsterdam
