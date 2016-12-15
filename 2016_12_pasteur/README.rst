@@ -30,6 +30,29 @@ cokelaer_slides_
 
 .. _galland_slides: `RNA-Seq pipelines with Snakemake  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/galland_slides.pdf>`_
 
+.. _rioualen_slides: ` ggg  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/rioulane_slides.pdf>`_
+
+.. _dimitri_slides: ` ggg  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/desvillechabrol_slides.pdf>`_
+
+.. _dayris_slides: ` ggg  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/dayris_slides.pdf>`_
+
+.. _pereira_slides: ` ggg  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/pereira_slides.pdf>`_
+
+.. _perrin_slides: ` ggg  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/perrin_slides.pdf>`_
+
+.. _valade_slides: ` ggg  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/valade_slides.pdf>`_
+
+.. _deshaies_slides: ` ggg  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/deshaies_slides.pdf>`_
+
+
+
+
+
+
+
+
+
+
 
 
 
