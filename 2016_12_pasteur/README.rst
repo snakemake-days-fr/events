@@ -13,7 +13,7 @@ The official program was posted `here <https://c3bi.pasteur.fr/news-journee-snak
 Slides of the talks can be found in the ./slides directory or in the link below
 
 
-- cokelaer_slides_ (Présentation générale de snakemake). Thomas Cokelaer (Institut Pasteur Paris)
+- |cokelaer_slides| (Présentation générale de snakemake). Thomas Cokelaer (Institut Pasteur Paris)
 - galland_slides_ (Pipelines mRNA et variants) – Marc Galland – Université d’Amsterdam
 - Development of Snakemake Workflows designed for ChIP-seq analysis – Claire Rioualen – TAGC, INSERM, Université de Marseille
 - Sequana: a set of flexible genomic pipelines for processing and reporting NGS analysis – Dimitri Desvillechabrol – Biomics, Institut Pasteur Paris
@@ -23,7 +23,7 @@ Slides of the talks can be found in the ./slides directory or in the link below
 - L’utilisation de Snakemake à l’Institut Curie. Mathieu Valade – Institut Curie
 - L’utilisation de Snakemake à l’ICM. Justine Guegan – ICM, Paris
 
-.. _cokelaer_slides: `Snakemake overview <https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/cokelaer_slides.pdf>`_
+.. |cokelaer_slides| replace:: `Snakemake overview <https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/cokelaer_slides.pdf>`_
 
 .. _galland_slides: `RNA-Seq pipelines with Snakemake  <https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/galland_slides.pdf>`_
 
