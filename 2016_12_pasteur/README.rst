@@ -23,7 +23,7 @@ Slides of the talks can be found in the ./slides directory or in the link below
 - L’utilisation de Snakemake à l’Institut Curie. Mathieu Valade – Institut Curie
 - L’utilisation de Snakemake à l’ICM. Justine Guegan – ICM, Paris
 
-.. _cokelaer_slides: https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/cokelaer_slides.pdf
+.. _cokelaer_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/cokelaer_slides.pdf
 
 .. _galland_slides: `RNA-Seq pipelines with Snakemake  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/galland_slides.pdf>`_
 
