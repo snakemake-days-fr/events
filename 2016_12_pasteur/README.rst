@@ -4,7 +4,6 @@ Journée Snakemake 12th Dec 2016
 The "Journée Snakemake" was organised by `Institut Pasteur <http://www.pasteur.fr/en>`_, `Institut Curie <http://curie.fr>`_, the `TAGC - Marseille <http://tagc.univ-mrs.fr/tagc>`_ and the `Genoscope - CEA <http://www.genoscope.cns.fr/spip>`_ with support from `ReproVirtuFlow du GDR MADICS <http://www.madics.fr/actions/actions-en-cours/reprovirtuflow/>`_. 
 
 
-https://www.france-bioinformatique.fr/fr/groupes-de-travail/snakemake-workgroup
 
 Program
 -------------
@@ -43,6 +42,12 @@ Slides of the talks can be found in the ./slides directory or in the link below
 .. _deshaies_slides: ` ggg  <https://github.com/snakemake-days-fr/events/edit/master/2016_12_pasteur/slides/deshaies_slides.pdf>`_
 
 
+Groupe de travail
+---------------------
+
+IFB has set up a mailing list to discuss about Snakemake
+
+https://www.france-bioinformatique.fr/fr/groupes-de-travail/snakemake-workgroup
 
 
 
