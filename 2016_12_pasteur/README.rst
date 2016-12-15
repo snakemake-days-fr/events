@@ -27,7 +27,7 @@ Slides of the talks can be found in the ./slides directory or in the link below
 
 .. _Galland_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/galland_slides.pdf
 
-.. _Rioualen_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/rioulane_slides.pdf
+.. _Rioualen_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/rioualen_slides.pdf
 
 .. _Desvillechabrol: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/desvillechabrol_slides.pdf
 
@@ -35,7 +35,7 @@ Slides of the talks can be found in the ./slides directory or in the link below
 
 .. _Pereira_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/pereira_slides.pdf
 
-.. _Perrin_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slide/perrin_slides.pdf
+.. _Perrin_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/perrin_slides.pdf
 
 .. _Valade_slides: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/slides/valade_slides.pdf
 
