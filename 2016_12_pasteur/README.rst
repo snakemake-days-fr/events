@@ -62,6 +62,11 @@ Beginner tutorials
 ~~~~~~~~~~~~~~~~~~~~
 There was a session for beginners to kick off with Snakemake. 
 
+Some resources for beginners:
+
+- https://github.com/rioualen/gene-regulation/blob/master/doc/snakemake_tutorial
+- https://bitbucket.org/snakemake/snakemake/wiki/Documentation
+
 Comparison Snakemake vs Nextflow
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This was organised by Frédéric Lemoine . Resources available on 
@@ -74,7 +79,10 @@ Discussions around Snakemake details
 Docker with Snakemake 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
+What's next
+-------------------------
+- Next "Journée Snakemake".
+- Pipeline challenge ? 
 
 
 
