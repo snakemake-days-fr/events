@@ -73,11 +73,19 @@ This was organised by Frédéric Lemoine . Resources available on
 
 https://gitlab.pasteur.fr/flemoine/hackathon-snakemake/
 
-Discussions around Snakemake details
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Discussions around Snakemake (large number of jobs)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+See parallelisation_ discussions
+
+.. parallelisation: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/parallelisation.rst
+
+
 
 Docker with Snakemake 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A group discussed and work around the usage of dockers for snakemake applications. 
 
 What's next
 -------------------------
