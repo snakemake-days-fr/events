@@ -76,7 +76,7 @@ https://gitlab.pasteur.fr/flemoine/hackathon-snakemake/
 Discussions around Snakemake (large number of jobs)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-See parallelisation_ discussions.
+See parallelisation_ discussions (in french).
 
 .. _parallelisation: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/parallelisation.rst
 
@@ -85,7 +85,7 @@ See parallelisation_ discussions.
 Docker with Snakemake 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A group discussed and work around the usage of dockers for snakemake applications. 
+A group discussed and worked around the usage of dockers for snakemake applications. 
 
 What's next
 -------------------------
