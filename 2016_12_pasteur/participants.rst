@@ -1,7 +1,7 @@
 participants:
 -------------
 
-- Anne Biton bitona
+- Anne Biton anne.biton at pasteur.fr
 - Emmanuel Chaplais echaplais at lifeandsoft.com echaplais
 - Thomas Cokelaer thomas.cokelaer at pasteur.fr
 - Blaise Li blaise.li at pasteur.fr blaiseli
@@ -33,7 +33,7 @@ participants:
 - Jérôme Mariette jerome.mariette at inra.fr
 - Vladimir Daric vladimir.daric at u-psud.fr
 - Vivien Deshaies vivien.deshaies at gmail.com
-- claire Rioualen
+- claire Rioualen claire.rioualen at inserm.fr
 - Celine Hernandez celine.hernandez at ens.fr
-- Hervé Ménager 
-- Frédéric Lemoine
+- Hervé Ménager  herve.menager at pasteur.fr
+- Frédéric Lemoine frederic.lemoine at pasteur.fr
