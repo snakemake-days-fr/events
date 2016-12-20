@@ -76,7 +76,7 @@ https://gitlab.pasteur.fr/flemoine/hackathon-snakemake/
 Discussions around Snakemake (large number of jobs)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-See parallelisation_ discussions
+See _parallelisation_ discussions
 
 .. parallelisation: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/parallelisation.rst
 
