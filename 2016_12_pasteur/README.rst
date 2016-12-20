@@ -78,7 +78,7 @@ Discussions around Snakemake (large number of jobs)
 
 See parallelisation_ discussions.
 
-.. parallelisation: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/parallelisation.rst
+.. _parallelisation: https://github.com/snakemake-days-fr/events/blob/master/2016_12_pasteur/parallelisation.rst
 
 
 
